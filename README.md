@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Dharshikan!
 
-🎓 I'm currently pursuing an HND in Computing  
+🎓 HND in Computing Final Year
 💻 Junior Web Developer & IT Support Specialist  
 🌱 Constantly learning and growing in full-stack development  
 📍 Open to full-time opportunities in tech  
