@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm Dharshikan (aka DK)!
+# 👋 Hello, I'm Dharshikan!
 
 🎓 I'm currently pursuing an HND in Computing  
 💻 Junior Web Developer & IT Support Specialist  
