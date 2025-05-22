@@ -1,36 +1,75 @@
-## Hi there 👋
+<!-- 🌟 Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dharshikan+%F0%9F%91%8B;Junior+Web+Developer+%26+IT+Support;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</p>
 
-# 👋 Hello, I'm Dharshikan!
-
-🎓 HND in Computing Final Year
-💻 Junior Web Developer & IT Support Specialist  
-🌱 Constantly learning and growing in full-stack development  
-📍 Open to full-time opportunities in tech  
-
----
-
-## 🛠️ Skills & Tools
-- **Languages:** HTML, CSS, JavaScript, PHP
-- **Frameworks:** Bootstrap, React (beginner), Laravel (learning)
-- **Tools & Platforms:** Git, GitHub, VS Code, WordPress, MySQL, XAMPP
-- **Soft Skills:** Teamwork, Problem-solving, Communication, Time management
-
+<!-- Profile Title -->
+<h1 align="center">✨ Junior Web Developer | Final Year Computing Student | IT Support Enthusiast ✨</h1>
 
 ---
 
-## 📈 GitHub Stats
-![Dharshikan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharshikan555&show_icons=true&theme=tokyonight)
+<!-- About Me Section -->
+### 🙋‍♂️ About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshikan555&layout=compact&theme=tokyonight)
+- 🎓 Final Year HND in Computing Student  
+- 💻 Junior Web Developer & IT Support Specialist  
+- 🔧 Currently Learning **Laravel** & **React**  
+- 🌍 Based in Sri Lanka | Open to global opportunities  
+- 💬 Ask me about anything related to **web development** and **IT troubleshooting**
 
 ---
 
-## 🤝 Connect with Me
-- 📧 Email: dharshikan.official@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)  
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+<!-- Gradient Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,2e8b57,00ced1&height=100&section=header&text=SKILLS&fontSize=30&fontAlignY=35&descAlignY=60" />
 
-Thanks for stopping by! 🙏
+<!-- Skills Badges -->
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,laravel" />
+
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,mysql,vscode" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharshikan555&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshikan555&theme=tokyonight" width="48%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshikan555&layout=compact&theme=tokyonight&hide=html" width="48%" />
+</p>
+
+---
+
+<!-- Contact Section -->
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:dharshikan.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ced1&height=100&section=footer"/>
+</p>
+
+
 
 
 
